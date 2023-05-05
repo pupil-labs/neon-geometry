@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('Neon_nest_reference.STEP',
+FILE_NAME ('Neon_Bare_Metal_Nest_reference.STEP',
     '2023-05-04T12:17:53',
     ( '' ),
     ( '' ),

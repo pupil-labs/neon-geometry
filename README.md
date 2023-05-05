@@ -9,7 +9,7 @@ Use the reference files in this repository to design your own NEON integrations!
 
 `NEON_Module_reference.step` - A 3d model of the NEON module and 
 
-`NEON_NEST_reference.step` - A 3d model of the NEON nest pcb also know as 'bare metal'. The 'Bare Metal' nest pcb comes with a USB-C cable attached. You can desolder and attach your own cable if needed.
+`NEON_Bare_Metal_Nest_reference.step` - A 3d model of the NEON nest pcb also know as 'bare metal'. The 'Bare Metal' nest pcb comes with a USB-C cable attached. You can desolder and attach your own cable if needed.
 
 `Neon_reference.step' - All 3 files above in one file placed correctly so show how they come together. This files also includes the m2 panel screw fasteners used to fix the module to the nest.
 
